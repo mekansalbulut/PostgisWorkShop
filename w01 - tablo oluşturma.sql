@@ -1,3 +1,4 @@
+--Tablo oluştururken geometry alanımıza hangi tipte bir geometri ve hangi SpatialReference ID ile oluşturulacağını belirtiyoruz.
 CREATE TABLE shema_adi.tablo_adi
 (
     "id"  serial not null,
